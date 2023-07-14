@@ -22,4 +22,4 @@ The app utilizes various advanced JavaScript technologies and libraries to ensur
 5.Responsive Design: Our app incorporates responsive design principles, ensuring that the user interface adapts seamlessly to different screen sizes and orientations. This allows users to access and navigate the app comfortably on various mobile devices.
 
 
-By leveraging advanced JavaScript technologies and the versatility of React Native, we have developed a Crypto Price Tracker App that stands out in terms of performance, user experience, and real-time data accuracy. Stay ahead of the crypto market with our app's powerful features and enjoy the benefits of cutting-edge JavaScript development. Download our app now and embark on an enhanced cryptocurrency tracking experience.
+By leveraging advanced JavaScript technologies and the versatility of React Native, we have developed a Crypto Price Tracker App that stands out in terms of performance, user experience, and real-time data accuracy. Stay ahead of the crypto market with our app's powerful features and enjoy the benefits of cutting-edge JavaScript development.
